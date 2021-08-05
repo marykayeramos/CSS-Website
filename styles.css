@@ -46,6 +46,10 @@ hr {
   top: 50px;
 }
 
+.subtitle {
+  margin-top: 0;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
@@ -66,6 +70,7 @@ hr {
 }
 
 .description {
+  font-size: .9rem;
   padding-bottom: 50px;
   margin: auto;
   width: 30%;
@@ -88,6 +93,7 @@ hr {
 
 .googling {
   margin-left: 140px;
+  font-size: .9rem;
 }
 
 .dog-img {
