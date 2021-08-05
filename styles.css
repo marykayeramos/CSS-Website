@@ -101,6 +101,11 @@ hr {
   margin-left: 30px;
 }
 
+.contact-me {
+  width: 30%;
+  margin: auto;
+}
+
 .bottom-container {
   background-color: #DEEEEA;
   margin: 0;
