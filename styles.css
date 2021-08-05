@@ -35,7 +35,7 @@ hr {
 }
 
 .top-container {
-  background-color: #DEEEEA;
+  background-color: #E4F9F5;
   padding-top: 100px;
   position: relative;
 }
@@ -107,7 +107,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #DEEEEA;
+  background-color: #E4F9F5;
   margin: 0;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -142,7 +142,7 @@ hr {
 }
 
 .btn:hover {
-  background: #696669;
+  background: #30e3cb;
   text-decoration: none;
 }
 
